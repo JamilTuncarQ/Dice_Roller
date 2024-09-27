@@ -1,4 +1,4 @@
 # Dice Roller
 
 ![vista previa](dice-roller.png)
-![vista de ejecucion](s2-dice-roller.mp4)
+![vista de ejecucion](video_dice_roller.gif)
